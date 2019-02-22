@@ -12,7 +12,7 @@ Some basic voting info :
 
 ## Whom to Vote for?
 
-First of all, read the [Delegate Proposals](https://forum.ark.io/category/5/delegates) on our forum. From the current list of delegates, vote according to your preferences.
+First of all, read the [Delegate Proposals](https://arkdelegates.io/). From the current list of delegates, vote according to your preferences.
 
 You can also see the list of currently active delegates on our [delegate monitor](https://explorer.ark.io/delegateMonitor).
 
